@@ -12,7 +12,9 @@
 - **Third Party Libraries:** Picasso, Glide, Volley, Retrofit   
 
 ## 💡 What I’m Learning  
-- Advanced Android development concepts.   
+- Advanced Android development concepts.
+
+[![](https://visitcount.itsvg.in/api?id=Himanshu-R-Shrivastava&icon=0&color=0)](https://visitcount.itsvg.in)  
 
 
 
