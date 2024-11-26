@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Himanshu-R-Shrivastava
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there! 👋 I'm [Himanshu]  
+
+🎯 **Aspiring Android Developer** | 💻 **Kotlin Enthusiast**  
+
+🌱 I'm a fresher passionate about building intuitive and robust Android applications.  
+👀 Seeking **internship** or **job opportunities** in Android development to kickstart my career.  
+
+## 📚 Skills  
+- **Languages:** Kotlin  
+- **Development Tools:** Android Studio  
+- **Concepts:** Activity, Fragments, Room Database, SharedPreferences, REST API Integration, Firebase Integration  
+- **Third Party Libraries:** Picasso, Glide, Volley, Retrofit   
+
+## 💡 What I’m Learning  
+- Advanced Android development concepts.   
+
+
 
 <!---
 Himanshu-R-Shrivastava/Himanshu-R-Shrivastava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
